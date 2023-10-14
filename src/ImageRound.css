@@ -1,0 +1,15 @@
+.image_round{
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+    margin: 30px;
+}
+
+.image_round:hover{
+    transition: scale .3s ease-out ;
+    scale: 1.1;
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+    margin: 30px;
+}

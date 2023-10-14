@@ -1,0 +1,12 @@
+.nav_container {
+  position: sticky;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: rgba(0, 153, 255, 0.412);
+}
+
+.linebr{
+  margin: 0;
+}

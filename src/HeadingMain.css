@@ -1,0 +1,14 @@
+.heading_name{
+    font-size: xxx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.heading_para{
+    font-size: xx-large;
+}
+.h1,.h2{
+    color:rgba(25, 0, 255, 0.715);
+}
