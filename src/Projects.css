@@ -1,6 +1,40 @@
-.project_container{
-    display:flex;
+.project_container {
+    display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     align-items: center;
     margin: 8px;
+}
+
+/* Large screens */
+@media (max-width: 1200px) {
+    .project_container {
+        flex-wrap: wrap;
+    }
+}
+
+/* Medium screens */
+@media (max-width: 992px) {
+    .project_container {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+/* Small screens */
+@media (max-width: 768px) {
+    .project_container {
+        flex-direction: column;
+        justify-content: center;
+        margin: 4px;
+    }
+}
+
+/* Extra small screens */
+@media (max-width: 576px) {
+    .project_container {
+        flex-direction: column;
+        justify-content: center;
+        margin: 2px;
+    }
 }

@@ -8,15 +8,18 @@ import Projects from "./Projects";
 function App() {
   return (
     <Router>
-      <div className="App">
+      <div className="app">
         <Navbar />
-        <Routes>
-          <Route path="" element={<Home />}></Route>
-          <Route path="/about" element={<About />}></Route>
-          <Route path="/projects" element={<Projects />}></Route>
-        </Routes>
+        <div className="content">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/projects" element={<Projects />} />
+          </Routes>
+        </div>
       </div>
     </Router>
   );
 }
+
 export default App;

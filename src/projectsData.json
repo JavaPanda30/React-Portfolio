@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "topics": ["Topic 1", "Topic 2", "Topic 3"],
+    "heading": "MotorMart - A Virtual Car Showroom App",
+    "image": "motormrt.png",
+    "para": "This Project includes a Single Page website using React. This is the project I have made as an Intern Trainee at Ethnus.",
+    "link": "https://mern-e-commerce-pc5y.vercel.app/"
+  },
+  {
+    "index": 2,
+    "topics": ["Topic 1", "Topic 2", "Topic 3"],
+    "heading": "FitMax Gym App",
+    "image": "Fitmax.png",
+    "para": "This is also a Project having Single Page website using React. This E-commerce app uses firebase authentication and Integrated React Context API.",
+    "link": "https://javapanda30.github.io/FitMaxGym-App"
+  },
+  {
+    "index": 3,
+    "topics": ["Topic 1", "Topic 2", "Topic 3"],
+    "heading": "To-Do App",
+    "image": "todo.png",
+    "para": "This Site is Made using Bootstrap and JS. This website shows top 10 F1 drivers in the current Season and much more about them in the form of flash card.",
+    "link": "https://todoapp-beta-tan.vercel.app"
+  },
+  {
+    "index": 4,
+    "topics": ["Topic 1", "Topic 2", "Topic 3"],
+    "heading": "Locate My City Weather App",
+    "image": "weather.png",
+    "para": "This Site is Made using Bootstrap and JS. This website shows top 10 F1 drivers in the current Season and much more about them in the form of flash card.",
+    "link": "https://example.com/formula1"
+  },
+  {
+    "index": 5,
+    "topics": ["Topic 1", "Topic 2", "Topic 3"],
+    "heading": "Shopping Cart App",
+    "image": "reduxcart.png",
+    "para": "This Site is Made using Bootstrap and JS. This website shows top 10 F1 drivers in the current Season and much more about them in the form of flash card.",
+    "link": "https://cx23l9.csb.app/"
+  }
+]

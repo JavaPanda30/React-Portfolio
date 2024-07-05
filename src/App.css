@@ -1,7 +1,27 @@
-.App{
-  background-color:rgba(255, 255, 255, 0.466) ;
-  height:130vh;
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+}
+
+.content {
+  flex: 1; 
+  padding: 20px; 
+}
+*{
+  text-decoration: none;
 }
 body{
-  background-color: rgb(115, 154, 206);
+  background-color: rgba(117, 147, 187, 0.694);
 }

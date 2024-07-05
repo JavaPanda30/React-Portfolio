@@ -1,15 +1,44 @@
-.image_round{
+.image_round {
     border-radius: 50%;
     height: 500px;
     width: 500px;
     margin: 30px;
 }
 
-.image_round:hover{
-    transition: scale .3s ease-out ;
-    scale: 1.1;
+.image_round:hover {
+    transition: all 0.5s ease-in-out;
+    transform: scale(1.1); 
+}
+.image-round-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px; 
+  }
+  
+  .image_round {
+    object-fit: cover;
     border-radius: 50%;
-    height: 500px;
-    width: 500px;
-    margin: 30px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-out;
+  }
+  
+  .image_round:hover {
+    transform: scale(1.1);
+  }
+  
+@media (max-width: 768px) {
+    .image_round {
+        height: 300px;
+        width: 300px;
+        margin: 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .image_round {
+        height: 200px;
+        width: 200px;
+        margin: 15px;
+    }
 }
