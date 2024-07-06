@@ -10,6 +10,7 @@
 @media (max-width: 1200px) {
     .project_container {
         flex-wrap: wrap;
+        margin: 8px;
     }
 }
 
@@ -18,6 +19,7 @@
     .project_container {
         flex-direction: column;
         justify-content: center;
+        margin: 6px;
     }
 }
 
