@@ -36,13 +36,13 @@ This portfolio website is designed to highlight my projects, skills, and experie
 
 ### Desktop Version
 
-![Desktop Version 1](https://github.com/user-attachments/assets/0dd6cabd-ceed-45b5-9c7e-96146de20182)
-![Desktop Version 2](https://github.com/user-attachments/assets/76869da7-0df6-4a01-b869-593ec113ce0a)
+![Desktop Version 1 Landing Page](https://github.com/user-attachments/assets/0dd6cabd-ceed-45b5-9c7e-96146de20182)
+![Desktop Version 2 Projects Page](https://github.com/user-attachments/assets/76869da7-0df6-4a01-b869-593ec113ce0a)
 
 ### Mobile Version
 
-![Mobile Version 1](https://github.com/user-attachments/assets/817adb5a-278b-4dfb-b04c-a512d165731d)
-![Mobile Version 2](https://github.com/user-attachments/assets/775052cd-c07c-4cf0-aef8-3c707d5dfcf1)
+![Mobile Version 1 Landing Page](https://github.com/user-attachments/assets/80ee899a-bd06-43f1-b0b4-59f3b7dbd016)
+![Mobile Version 2 Projects Page](https://github.com/user-attachments/assets/775052cd-c07c-4cf0-aef8-3c707d5dfcf1)
 
 
 ## Installation
